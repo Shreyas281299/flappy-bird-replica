@@ -19,7 +19,11 @@ python main.py
 
 ## Demo
 
-[Watch the Flappy Bird gameplay demo](assets/Flappy-bird.mov)
+<video src="assets/Flappy-bird.mov" controls width="720">
+  Your browser does not support the video tag.
+</video>
+
+[Open the gameplay demo video](assets/Flappy-bird.mov)
 
 ## Controls
 
