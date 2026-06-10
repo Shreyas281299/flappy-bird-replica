@@ -17,6 +17,10 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## Demo
+
+[Watch the Flappy Bird gameplay demo](assets/Flappy-bird.mov)
+
 ## Controls
 
 - Press `Space`, `Up Arrow`, or click to flap.
